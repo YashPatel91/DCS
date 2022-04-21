@@ -58,19 +58,4 @@ A keras implementation of the paper [Deep Code Search](https://guxd.github.io/pa
    ```bash
    python main.py --mode search
    ``` 
-   
-## Tool Demo
-
-An online tool demo can be found at http://211.249.63.55:81/ (Unavailable Now)
-
-## Citation
-If you find it useful and would like to cite it, the following would be appropriate:
-```
-@inproceedings{gu2018deepcs,
-  title={Deep Code Search},
-  author={Gu, Xiaodong and Zhang, Hongyu and Kim, Sunghun},
-  booktitle={Proceedings of the 2018 40th International Conference on Software Engineering (ICSE 2018)},
-  year={2018},
-  organization={ACM}
-}
 ```
